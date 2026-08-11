@@ -1,0 +1,9 @@
+# Local only. None of this ships in the public repo.
+# The research, the outreach and the annotations stay on the machine that made them.
+research/
+assets/
+ANNOTATED.md
+OUTREACH.md
+*.bak
+.vercel
+.DS_Store
